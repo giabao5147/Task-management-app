@@ -31,4 +31,4 @@ mới, sửa, xóa, xem thông tin dự án. Đồng thời có thể thêm nhâ
 
 ## 3. Demo
 
-![](doc/demo.mp4)
+https://youtu.be/d0T4HJBn9rI
